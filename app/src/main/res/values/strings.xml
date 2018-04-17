@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LinuxQuiz</string>
+    <string name="buttonText">Next</string>
+
+    <string name="question1">Command to create directories ______ .</string>
+    <string name="option11">makedirectory</string>
+    <string name="option12">makedir</string>
+    <string name="option13">mkdir</string>
+
+    <string name="question2">Command to remove files ______ .</string>
+    <string name="option21">removefiles</string>
+    <string name="option22">rm</string>
+    <string name="option23">rmfile</string>
+
+    <string name="question3">Command to list files and directories ______ .</string>
+    <string name="option31">ls</string>
+    <string name="option32">lsfilesdirectories</string>
+    <string name="option33">listfiles</string>
+
+    <string name="question4">Command to change between directories ______ .</string>
+    <string name="option41">changedirectory</string>
+    <string name="option42">chdir</string>
+    <string name="option43">cd</string>
+
+</resources>
